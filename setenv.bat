@@ -1,0 +1,1 @@
+set path=%path%;C:\Users\danilo.queiroz\AppData\Local\Programs\Python\Python37
