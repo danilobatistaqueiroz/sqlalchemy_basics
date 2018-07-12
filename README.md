@@ -2,14 +2,14 @@
 
 **Configuring the environment**
 
-`
+```bash
 pip install virtualenv  
 python -m venv alchemy_tuto  
 cd alchemy_tuto  
 Scripts\activate  
 pip install sqlalchemy==1.2.9  
 git clone https://github.com/danilobatistaqueiroz/sqlalchemy_basics.git .
-`
+```
 
 ___
 
