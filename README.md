@@ -1,6 +1,6 @@
 # SqlAlchemy Tutorial
 
-** Configuring the environment **
+**Configuring the environment**
 
 pip install virtualenv  
 python -m venv alchemy_tuto  
@@ -11,7 +11,7 @@ pip install sqlalchemy==1.2.9
 
 ___
 
-** Links **
+**Links**
 
 https://stackoverflow.com/questions/17737203/python-and-virtualenv-on-windows
 
